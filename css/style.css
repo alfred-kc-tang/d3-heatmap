@@ -1,0 +1,8 @@
+#dropdown-container {
+	text-align: center;
+}
+.dropdown {
+	text-align: center;
+	display: inline;
+	width: 100px;
+}
